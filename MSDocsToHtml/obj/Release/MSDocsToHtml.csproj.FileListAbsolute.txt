@@ -1,0 +1,14 @@
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\bin\Release\MSDocsToHtml.exe.config
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\bin\Release\MSDocsToHtml.exe
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\bin\Release\MSDocsToHtml.pdb
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MainWindow.g.cs
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\App.g.cs
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml_MarkupCompile.cache
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml_MarkupCompile.lref
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MainWindow.baml
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml.g.resources
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml.Properties.Resources.resources
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml.csproj.GenerateResource.cache
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml.csproj.CoreCompileInputs.cache
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml.exe
+C:\Users\rbtlo\Desktop\msoffice\MSDocsToHtml\obj\Release\MSDocsToHtml.pdb

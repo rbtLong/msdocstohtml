@@ -1,0 +1,9 @@
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\bin\MSOfficeInterop.dll.config
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\bin\MSOfficeInterop.dll
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\bin\MSOfficeInterop.pdb
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\obj\Debug\MSOfficeInterop.csprojAssemblyReference.cache
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\obj\Debug\MSOfficeInterop.csproj.ResolveComReference.cache
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\obj\Debug\MSOfficeInterop.csproj.CoreCompileInputs.cache
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\obj\Debug\MSOfficeInterop.csproj.CopyComplete
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\obj\Debug\MSOfficeInterop.dll
+C:\Users\rbtlo\Desktop\msoffice\MSOfficeInterop\obj\Debug\MSOfficeInterop.pdb

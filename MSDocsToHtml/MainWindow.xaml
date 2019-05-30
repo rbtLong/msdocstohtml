@@ -1,0 +1,50 @@
+﻿<Window x:Class="MSDocsToHtml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MSDocsToHtml"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="ToolWindow"
+        ResizeMode="NoResize"
+        Title="MSDocs to HTML" Height="166.591" Width="295.146">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <StackPanel Margin="5px">
+                <Label>Locate Document</Label>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="35px" />
+                    </Grid.ColumnDefinitions>
+                    <TextBox Text="{Binding Path=FileLoc}" Grid.Column="0" Margin="3" Name="tbxLocation" MaxHeight="100px" IsReadOnly="True" >
+                        <TextBox.FontSize>
+                            16
+                        </TextBox.FontSize>
+                    </TextBox>
+                    <Button Grid.Column="1" Margin="3" Name="btnBrowse" >
+                        <Button.FontSize>
+                            16
+                        </Button.FontSize>
+                        ...
+                    </Button>
+                </Grid>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Button Name="btnToHtml" IsEnabled="{Binding ConvertEnabled}" HorizontalAlignment="Center" VerticalAlignment="Center" Height="35" Width="150">
+                <Button.FontSize>
+                    16
+                </Button.FontSize>
+                Convert to HTML
+            </Button>
+        </Grid>
+    </Grid>
+</Window>
